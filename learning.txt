@@ -1,4 +1,8 @@
 abcd
 xyzabcdefghijkl
 123456789
+<<<<<<< HEAD
 2222222222222222
+=======
+111111111111111111111
+>>>>>>> 8a9f697 (changes done on local or remote)
